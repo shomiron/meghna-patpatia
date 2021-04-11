@@ -707,7 +707,7 @@ hr.project-detail-hr {
 
 /* line 399, ../scss/_custom.scss */
 .project-img:first-of-type {
-  margin-top: 0em;
+  margin-top: 1.75em;
 }
 
 /* line 403, ../scss/_custom.scss */
@@ -763,7 +763,7 @@ Footer
 /* line 449, ../scss/_custom.scss */
 footer {
   border-top: 1px solid #91b7c7;
-  margin-top: 1em;
+  margin-top: 0em;
   padding-top: 0em;
   padding-bottom: 1em;
 }
@@ -1019,8 +1019,8 @@ img {
 
 /* line 374, ../bower_components/foundation/scss/foundation/components/_global.scss */
 img {
-  display: inline-block;
-  vertical-align: middle;
+	display: inline-block;
+	vertical-align: middle;
 }
 
 /* line 384, ../bower_components/foundation/scss/foundation/components/_global.scss */
