@@ -696,7 +696,7 @@ ul.small-block-grid-1 li {
 /* line 389, ../scss/_custom.scss */
 hr.project-detail-hr {
   margin-top: 1.75em;
-  display: none;
+  display: block;
 }
 
 /* line 394, ../scss/_custom.scss */
@@ -4418,7 +4418,7 @@ h6 {
 
 /* line 208, ../bower_components/foundation/scss/foundation/components/_type.scss */
 hr {
-  border: solid #91b7c7;
+  border: solid #b3b3b3;
   border-width: 1px 0 0;
   clear: both;
   margin: 1.25rem 0 1.1875rem;
