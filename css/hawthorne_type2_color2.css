@@ -100,8 +100,8 @@ article {
 
 /* line 77, ../scss/master/_blog.scss */
 article h1, h1.archive-title {
-  font-family: 'Sansita', sans-serif;
-  font-weight: bold;
+  font-family: 'Times New Roman', sans-serif;
+  font-weight: normal;
   font-style: normal;
   font-size: 1.5rem;
   line-height: 1.2;
@@ -535,8 +535,8 @@ header div.logo {
 
 /* line 245, ../scss/_custom.scss */
 div div header h1 {
-  font-family: 'Sansita', sans-serif;
-  font-weight: bold;
+  font-family: 'Times New Roman', sans-serif;
+  font-weight: normal;
   font-style: normal;
   font-size: 1.625rem;
   line-height: 1.3;
